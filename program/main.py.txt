@@ -8,4 +8,7 @@ void create_zam{
 #фция создания заметок
 }
 
+void create_book{
+#обьединяем заметки
+}
 
