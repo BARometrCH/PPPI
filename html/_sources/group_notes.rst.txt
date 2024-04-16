@@ -1,0 +1,7 @@
+group\_notes module
+===================
+
+.. automodule:: group_notes
+   :members:
+   :undoc-members:
+   :show-inheritance:
